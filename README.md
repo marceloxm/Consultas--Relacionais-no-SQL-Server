@@ -2,7 +2,7 @@
 
 Projeto faz parte do curso da Digital Innovation One!
 
-Desafio de projeto
+Desafio de projeto:
 Para este desafio, foi usado os conhecimentos adquiridos no módulo de banco de dados, da trilha .NET da DIO.
 
 Contexto
