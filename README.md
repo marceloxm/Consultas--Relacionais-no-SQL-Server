@@ -1,6 +1,6 @@
 # Consultas--Relacionais-no-SQL-Server
 
-Projeto faz parte do curso da Digital Innovatio One!
+Projeto faz parte do curso da Digital Innovation One!
 
 Desafio de projeto
 Para este desafio, foi usado os conhecimentos adquiridos no módulo de banco de dados, da trilha .NET da DIO.
