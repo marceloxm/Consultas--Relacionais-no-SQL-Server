@@ -1,9 +1,9 @@
 # Consultas--Relacionais-no-SQL-Server
 
-Projeto faz parte do curso da Digital Innovatio One
+Projeto faz parte do curso da Digital Innovatio One!
 
 Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de banco de dados, da trilha .NET da DIO.
+Para este desafio, foi usado os conhecimentos adquiridos no módulo de banco de dados, da trilha .NET da DIO.
 
 Contexto
 Você é responsável pelo banco de dados de um site de filmes, onde são armazenados dados sobre os filmes e seus atores. Sendo assim, foi solicitado para que você realize uma consulta no banco de dados com o objetivo de trazer alguns dados para análises.
